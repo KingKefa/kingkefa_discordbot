@@ -1,2 +1,1 @@
-asd = "asd"
-das = None
+print("hallo")
